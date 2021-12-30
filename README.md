@@ -1,4 +1,4 @@
-- 👋 Hello!, I’m @f3l1p Front End Web Dev entusiast, Music Producer, and Music Artist.
+- 👋 Hello!, I’m @f3l1p a JR Front End React and React Native developer, Music Producer, and Music Artist.
 - 👀 I’m interested in Front End and Cyber Security.
 - 🌱 I’m currently learning React JS and React Native.
 - 📫 How to reach me: wnrad.f@gmail.com
