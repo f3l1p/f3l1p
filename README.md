@@ -1,11 +1,11 @@
 # 👋 Hello!, I`m @f3l1p
 
-- :rocket: A JR Front End developer. 
-- :guitar: A musician, and music producer.
-- :space_invader: I’m interested in Front End and Cyber Security.
-- 👀 I have some experience with Javascript, React and React Native.
-- 🌱 I love outdoor plans, some sports and video games
-- 📫 wnrad.f@gmail.com
+- :rocket: I`m a JR Front End developer. 
+- :guitar: Also a musician, and music producer.
+- :space_invader: I’m interested in Front End development for web and mobile and curious about Cyber Security.
+- 👀 I have some experience with Javascript, Typescript, React and React Native and Angular.
+- 🌱 I love outdoor activities, some sports and love video games.
+- 📫 Contact me wnrad.f@gmail.com
 
 <!---
 f3l1p/f3l1p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
