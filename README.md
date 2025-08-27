@@ -8,7 +8,7 @@
 - 📰 Currently I'm studing to be a fullstack developer
 - 🌱 I love outdoor activities, some sports and love video games.
 - 📫 Contact me felipe.chicangana.dev@gmail.com
-- 📎 CV here https://my-cv-portafolio.vercel.app/
+- 📎 CV <a href="[https://example.com](https://my-cv-portafolio.vercel.app/)" target="_blank" rel="noopener noreferrer">Here</a>
 
 <!---
 f3l1p/f3l1p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
